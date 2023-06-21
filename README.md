@@ -6,9 +6,8 @@
 😄 About Me 😄
 - I am a student currently pursuing a Ph.D. degree in Measurement Technology and Instruments at Nanjing University of Aeronautics and Astronautics. My current research interests include image processing, computer vision and evolutionary algorithms.
 
-
-⚡Recent rewards
-
+🏆Recent Awards
+- Winner(Champion) of the IEEE Congress on Evolutionary Computation(CEC) 2023 Multiobjective Neural Architecture Search Competition.
 
 ⚡Recently papers
 | Title | Published journals or conferences | JCR Partition | Impact Factor | CiteScore | Code | Link|
